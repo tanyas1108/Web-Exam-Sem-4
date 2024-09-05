@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    display: flex;
+}
+
+.b-img{
+    height: 100%;
+    width: 40%;
+    position: fixed;
+}
+
+.scroll{
+    margin-left: 600px;
+}
+
+.top{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.h{
+    font-size: 60px;
+    padding-bottom: 8px;
+}
+
+.button{
+    height: 30px;
+    width: 170px;
+}
+
+.portfolio{
+    padding-top: 20px;
+}
+
+.portfolio p{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.portfolio img{
+    height: 300px;
+}
+
+.about{
+    margin-top: 60px;
+}
+
+.ab{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.my{
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.sk{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
